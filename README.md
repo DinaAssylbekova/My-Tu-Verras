@@ -1,0 +1,1 @@
+The goal was to build a model to predict the value (the MEDV) based on the different other attributes like the number of rooms, % lower status of the population etc. on a Boston housing prices dataset. The main task is to investigate the data by cleaning, pre-processing, visualizing and looking for correlations.  
